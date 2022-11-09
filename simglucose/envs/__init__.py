@@ -1,1 +1,2 @@
 from simglucose.envs.simglucose_gym_env import T1DSimEnv
+from simglucose.envs.mod_simglucose_gym_env import ModT1DSimEnv
